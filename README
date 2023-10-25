@@ -1,0 +1,27 @@
+
+Problema 1: problema1.c
+
+  Rezolvarea problemei a durat in jur de 7 ore. 
+  In cadrul problemei am facut o lista in care am pus toate cuvintele ce
+trebuie subliniate.  
+  Am facut o functie in care am mers pe fiecare linie verificand cuvintele
+doua cate doua si in functie de caz le subliniam sau afisam spatii. 
+
+Problema 2: problema2.c
+  Pentru a rezolva aceasta problema am avut nevoie de 3 ore.
+  Am facut o functie pentru cautarea unui cuvant pe care utilizatorul il dorea
+indiferent de celelalte cuvinte gasite. In cazul in care il gaseam in dictionar
+ii cresteam prioritatea, altfel il adaugam in dictionar cu prioritatea 1. O 
+alta functie este pentru adaugarea unui cuvant nou in dictionar.
+  Citind cuvintele si verificand in ce caz se incadreaza fiecare, il cautam in 
+dictionar, il adaugam sau ii cresteam prioritatea si il afisam.
+
+Problema 3: problema3.c
+  Rezolvarea problemei a durat 2 ore.
+  Am facut o functie pentru extragerea numerelor si operatiilor, apoi cate o 
+functie pentru fiecare operatie. In final am facut o functie pentru a calcula
+rezultatul tuturor operatiilor. In interiorul acesteia am aflat primele doua 
+numere si prima operatie, apoi cat timp mai avem operatii de realizat, aplicam
+operatia si extragem urmatorul numar. 
+  In main citeam numarul de operatii si numarul unsigned din care trebuia sa 
+extrag numerele si operatiile si aplicam functia de calcul.
